@@ -1,7 +1,7 @@
 Generic Double Priority Queue
 ==============================
 
-This was written in response to the 2015/02/11 reddit (/r/dailyprogrammer)[http://www.reddit.com/r/dailyprogrammer/comments/2vkwgb/20150211_challenge_201_practical_exercise_get/] challenge.
+This was written in response to the 2015/02/11 reddit [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer/comments/2vkwgb/20150211_challenge_201_practical_exercise_get/) challenge.
 
 There's probably not much need for this data type in the wild, but it was a fun exercise.
 
